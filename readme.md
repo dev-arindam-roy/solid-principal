@@ -217,6 +217,9 @@ Register the dependency in a Laravel Service Provider or in AppServiceProvider:
 $this->app->bind(ReportGeneratorInterface::class, PDFReportGenerator::class);
 ```
 
+![SOLID drawio](https://github.com/user-attachments/assets/7da2d868-7921-471b-a86c-cafda7a8773b)
+
+
 # EXAMPLE
 
 ### 1. UserInterface
